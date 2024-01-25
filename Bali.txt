@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wisata Bali</title>
+    <!-- Add external stylesheets here -->
+</head>
+<body>
+    <header>
+        <h1>Time to Explore the World!</h1>
+        <nav>
+            <a href="#home">HOME</a>
+            <a href="#tempat-wisata">TOUR PACKAGES</a>
+            <a href="#services">SERVICES</a>
+            <a href="#tentang">ABOUT US</a>
+        </nav>
+    </header>
+    <section id="home">
+        <h2>Enquire Now</h2>
+        <img src="kashmir-image.jpg" alt="Kashmir tour image">
+        <img src="mauritius-image.jpg" alt="Mauritius tour image">
+    </section>
+    <section id="tempat-wisata">
+        <h2>Tempat Wisata</h2>
+        <h3>Bali, Indonesia</h3>
+        <p>Rajasthan, Himachal, Kerala</p>
+        <h3>International Tours</h3>
+        <p>Mauritius, Switzerland, Singapore, Thailand</p>
+    </section>
+    <section id="tentang">
+        <h2>Tentang Bali</h2>
+        <p>sebuah pulau di Indonesia yang dikenal karena memiliki pegunungan berapi yang hijau, terasering sawah yang unik, pantai, dan terumbu karang yang cantik. Terdapat banyak tempat wisata religi seperti Pura Uluwatu yang berdiri di atas tebing. Di Selatan, kota pesisir pantai Kuta menawarkan wisata hiburan malam yang tak pernah sepi, sementara Seminyak, Sanur, dan Nusa Dua dikenal dengan suguhan resort yang populer. Pulau Bali juga dikenal sebagai tempat untuk relaksasi dengan yoga dan meditasi</p>
+    </section>
+    <footer>
+        <p>Log In | Sign Up</p>
+    </footer>
+</body>
+</html>
