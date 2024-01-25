@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+    <header>
+        <h1 style="font-family:verdana;font-size:400%;border: 2px solid DodgerBlue;">Time to Explore the Bali!</h1>
+        <nav>
+            <a href="#home" style="font-family:verdana;">HOME</a>
+            <a href="#tempat-wisata" style="font-family:verdana;">TEMPAT WISATA</a>
+            <a href="#tentang" style="font-family:verdana;">TENTANG</a>
+        </nav>
+    </header>
+    <section id="home">
+        <h2 style=font-family:verdana;">Kunjungi</h2>
+    </section>
+    <section id="tempat-wisata">
+        <h2 style="background-color:DodgerBlue;font-family:verdana;">Tempat Wisata</h2>
+        <h3 style="font-family:verdana;">Bali, Indonesia</h3>
+	<img src="01.jpg" alt="01" width="600" height="400">
+	<img src="02.jpg" alt="02" width="600" height="400">
+        <img src="03.jpg" alt="03" width="600" height="400">
+	<img src="04.jpg" alt="04" width="600" height="400">
+	<img src="05.jpg" alt="05" width="600" height="400">
+	<img src="06.jpg" alt="06" width="600" height="400">
+        <p style="font-family:verdana;">Dengan tempat wisata yang indah dan menawan dan bali menjadi tempat wisat yang paling populer indonesia dan terkenal diluar negeri.</p>
+    </section>
+    <section id="tentang">
+        <h2 style="background-color:DodgerBlue;font-family:verdana;">Tentang Bali</h2>
+        <p style="border: 2px solid DodgerBlue;font-family:verdana;">Sebuah pulau di Indonesia yang dikenal karena memiliki pegunungan berapi yang hijau, terasering sawah yang unik, pantai, dan terumbu karang yang cantik. Terdapat banyak tempat wisata religi seperti Pura Uluwatu yang berdiri di atas tebing. Di Selatan, kota pesisir pantai Kuta menawarkan wisata hiburan malam yang tak pernah sepi, sementara Seminyak, Sanur, dan Nusa Dua dikenal dengan suguhan resort yang populer. Pulau Bali juga dikenal sebagai tempat untuk relaksasi dengan yoga dan meditasi.</p>
+    </section>
+    <footer>
+        <p style="font-family:verdana;">Log In | Sign Up</p>
+    </footer>
+</body>
+</html>
